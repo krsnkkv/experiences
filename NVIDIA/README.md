@@ -23,7 +23,7 @@ ___
 ## My final project:
 - Goal: Create and train a model that inteprets between fresh and rotten fruit
 
-#### What I learned:
+#### What I did:
   - Data generation and augmentation from small datasets
   - Application of transfer learning and feature extraction to increase speed
   - Hands on experience with Deep Learning via different projects helped me figure out these concepts in a more realistic way.
